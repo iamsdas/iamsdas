@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently exploring Solidity and DevOps
 - 😄 Pronouns: He/Him
 
-![iamsdas's github stats](https://github-readme-stats.vercel.app/api?username=iamsdas&count_private=true&hide=stars&show_icons=true&theme=prussian&hide_border=true)
+![iamsdas's github stats](https://github-readme-stats.vercel.app/api?username=iamsdas&count_private=true&hide=stars&show_icons=true&theme=react)
 <br />
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=iamsdas.iamsdas)
