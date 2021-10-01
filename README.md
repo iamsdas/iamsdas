@@ -1,4 +1,6 @@
-# Hi there 👋
+## Hello World 👋
+   ![visitors](https://visitor-badge.laobi.icu/badge?page_id=iamsdas.iamsdas)
+<img src="https://github-readme-stats.vercel.app/api?username=iamsdas&count_private=true&hide=stars&show_icons=true&theme=nord&hide_border=true" align="right"/>
 
 <!--
 **iamsdas/iamsdas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,12 +15,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+### About Me 🚀  
 -->
-<img src="https://github-readme-stats.vercel.app/api?username=iamsdas&count_private=true&hide=stars&show_icons=true&theme=nord&hide_border=true" align="right"/>
 
-### About Me 🚀
-- 🔭 I’m a Full stack developer and Blockchain enthusiast
-- 🌱 I’m currently exploring Solidity and DevOps
-- 😄 Pronouns: He/Him  
-
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=iamsdas.iamsdas)
+- 🔭 I’m a Full stack developer and love everything web
+- 🌱 I’m currently exploring Blockhain and DevOps
+- ⚙️ Languages I use: `JS`, `C++`, `Solidity`, `Python`
+- 😄 Pronouns: He/Him
