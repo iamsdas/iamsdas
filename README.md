@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m a Full stack developer and love everything web
-- 🌱 I’m currently exploring Blockhain and DevOps
+- 🌱 I’m currently exploring Blockchain and DevOps
 - ⚙️ Languages I use: `.js`, `.cpp`, `.sol`, `.py`
 - 😄 Pronouns: He/Him
