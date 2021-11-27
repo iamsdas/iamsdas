@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 
 - 🔭 I’m a Full stack developer and love everything web
 - 🌱 I’m currently exploring Blockchain and DevOps
-- ⚙️ Languages I use: `.js`, `.cpp`, `.sol`, `.py`
+- ⚙️ Languages I frequently use: `.ts`, `.js`, `.cpp`, `.sol`, `.py`
 - 😄 Pronouns: He/Him
