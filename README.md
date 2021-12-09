@@ -1,5 +1,4 @@
 ## Hello World 👋
-   ![visitors](https://visitor-badge.laobi.icu/badge?page_id=iamsdas.iamsdas)
 <img src="https://github-readme-stats.vercel.app/api?username=iamsdas&count_private=true&hide=stars&show_icons=true&theme=nord&hide_border=true" align="right"/>
 
 <!--
