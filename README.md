@@ -1,5 +1,4 @@
 ## Hello World 👋
-<img src="https://github-readme-stats.vercel.app/api?username=iamsdas&count_private=true&hide=stars&show_icons=true&theme=nord&hide_border=true" align="right"/>
 
 <!--
 **iamsdas/iamsdas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,3 +20,5 @@ Here are some ideas to get you started:
 - 🌱 I’m currently exploring Blockchain and DevOps
 - ⚙️ Languages I frequently use: `.ts`, `.js`, `.cpp`, `.sol`, `.py`
 - 😄 Pronouns: He/Him
+
+<img src="https://github-readme-stats.vercel.app/api?username=iamsdas&count_private=true&hide=stars&show_icons=true&theme=nord&hide_border=true"/>
