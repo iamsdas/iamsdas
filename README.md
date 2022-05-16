@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 ### About Me 🚀  
 -->
 
-- 🔭 I’m a Full stack developer and love everything web
-- 🌱 I’m currently exploring decentralized technologies
+- 🔭 I’m a Software Developer with a keen interst in the web domain
+- 🌱 I’m currently exploring the usage of blockchain technologies with the React Native ecosystem
 - ⚙️ Languages I frequently use: `.ts`, `.js`, `.cpp`, `.sol`, `.py`
 - 😄 Pronouns: He/Him
 
-<img src="https://github-readme-stats.vercel.app/api?username=iamsdas&count_private=true&hide=stars&show_icons=true&theme=nord&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=iamsdas&count_private=true&hide=stars&show_icons=true&theme=react"/>
