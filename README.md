@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m a Software Developer with a keen interst in the web domain
-- 🌱 I’m currently exploring the usage of blockchain technologies with the React Native ecosystem
+- 🌱 I’m currently exploring building microservices using NestJs.
 - ⚙️ Languages I frequently use: `.ts`, `.js`, `.cpp`, `.sol`, `.py`
 - 😄 Pronouns: He/Him
 
