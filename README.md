@@ -20,5 +20,3 @@ Here are some ideas to get you started:
 - 🌱 I’m currently exploring building microservices using NestJs.
 - ⚙️ Languages I frequently use: `.ts`, `.js`, `.cpp`, `.sol`, `.py`
 - 😄 Pronouns: He/Him
-
-<img src="https://github-readme-stats.vercel.app/api?username=iamsdas&count_private=true&hide=stars&show_icons=true&theme=react"/>
