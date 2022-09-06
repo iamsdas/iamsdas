@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ### About Me 🚀  
 -->
 
-- 🔭 I’m a Software Developer with a keen interst in the web domain
-- 🌱 I’m currently exploring building microservices using NestJs.
-- ⚙️ Languages I frequently use: `.ts`, `.js`, `.cpp`, `.sol`, `.py`
+- 🔭 I’m a software developer with a keen interst in the web domain
+- 🌱 I’m currently exploring building microservices using NestJs
+- ⚙️ Languages I frequently use: `.ts`, `.cpp`, `.sol`, `.py`
 - 😄 Pronouns: He/Him
