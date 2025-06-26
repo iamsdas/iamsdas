@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 
 - 🔭 I’m a software developer with a keen interst in the web domain
 - 🌱 I’m currently exploring building simple e2e type safe services.
-- ⚙️ Languages I frequently use: `.ts`, `.java`, `.go`
+- ⚙️ Languages I frequently use: `.ts`, `.py`, `.go`
 - 😄 Pronouns: He/Him
